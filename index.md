@@ -180,6 +180,9 @@ Powyżej przedstawiona została teoria analizy narracyjnej.Na analizie narracyjn
 
  ```
     started_in = os.getcwd()
+
     download_content(terminology_url, terminology_languages)
+    
     os.chdir(started_in)
+
     ```
