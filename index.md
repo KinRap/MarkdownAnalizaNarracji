@@ -89,6 +89,8 @@ W przypadku narratora najbardziej istotne jest odnalezienie znaków określając
 3. Brak narratora. 
 
 Odbiorca narracji, podobnie jak narrator, jest zawsze w niej obecny . Chodzi tutaj o tego, komu dana historia jest opowiadana lub o tego, kto zapoznaje się z narracją. Czytelnik wyczuwa, że on lub ona stoi ponad tym opowiadaniem. Jednak jego identyfikacja nie jest łatwa. Może nim być także jeden z bohaterów opowiadania. Może być czytelnikiem lub słuchaczem. Należy pamiętać jednak o tym, że może odgrywać dużą rolę w opowiadanych wydarzeniach. Czasami w toku narracji przechodzi transformację. Może też dojść do tego, że narrator w różnych momentach ma na myśli innego odbiorcę narracji. Czasami może też być identyfikowany z konkretną i rzeczywistą osobą . Odbiorca narracji odgrywa w badaniach nad tekstem bardzo ważną rolę. Czasami tylko on może właściwie odebrać i zinterpretować daną narrację . Należy jednak pamiętać, że rola odbiorcy narracji będzie zależna od przypisanego mu w narracji miejsca. Odbiorcom narracji odpowiadają rodzaje narratorów:
+
+
 ![alt Narrator](narrator.jpg)
 
 
@@ -176,9 +178,8 @@ Jest to zatem sposób komunikacji narracji, której nadawane jest pewne znaczeni
 Powyżej przedstawiona została teoria analizy narracyjnej.Na analizie narracyjnej zmodyfikowany został więc podstawowy schemat komunikacyjny, w którym pojawił się autor domyślny. Z punktu widzenia metody stanowi on element mający największy wpływ na kształt tekstu, a jednocześnie jego punkt widzenia i metody stanowią klucz do zrozumienia narracji. Analiza narracyjna ma bowiem przede wszystkim odpowiedzieć na pytanie dotyczące zamysłu autora domyślnego. W tym celu należy odnaleźć i odczytać znaki pozostawione w tekście. Tylko dzięki nim można dokonać właściwej interpretacji tekstu i w ten sposób pozwolić, aby wpłynęła ona na życie jego odbiorcy. Czytelnik ma wcielić się w rolę czytelnika domyślnego i zapoznać się z tekstem tak, jakby to właśnie z myślą o nim był tworzony. Wymaga to od niego posiadania konkretnej wiedzy, a także otwarcia się na działanie autora domyślnego.
 
 
-
-
-
-
-
-
+ ```
+    started_in = os.getcwd()
+    download_content(terminology_url, terminology_languages)
+    os.chdir(started_in)
+    ```
