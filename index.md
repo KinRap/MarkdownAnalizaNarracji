@@ -145,7 +145,7 @@ Kolejnym, jednym z ważniejszych elementów narracji, wpływających na kształt
 Konflikty w dzisiejszych narracjach niekoniecznie muszą być związane z podziałem na dobro i zło. Rozbudowane opowiadanie zawiera ich kilka i mogą dotyczyć w zasadzie wszystkiego . Bez nich opowiadania byłyby – tak jak nasze życie – nudne i monotonne. 
 
 Można wyróżnić następujące rodzaje konfliktów:
-1) **zewnętrzne (*external*)**, czyli prowadzone pomiędzy dwoma bohaterami opowiadania; wśród nich wyróżniamy:
+1.  **zewnętrzne (*external*)**, czyli prowadzone pomiędzy dwoma bohaterami opowiadania; wśród nich wyróżniamy:
 - konflikty pomiędzy bohaterami,
 - konflikty z naturą,
 - konflikty z „mocami” nadnaturalnymi,
